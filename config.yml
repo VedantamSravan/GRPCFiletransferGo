@@ -1,0 +1,4 @@
+ip: localhost
+port: 50051
+watchingdir: /Users/sravanvedantam/Desktop/Test/
+destinationdir: /Users/sravanvedantam/Desktop/Test1/
